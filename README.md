@@ -1,2 +1,3 @@
 # hello-world
-Just a repository
+Hey there
+Just trying to find a nice place to store code
